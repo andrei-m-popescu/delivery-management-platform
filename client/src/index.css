@@ -1,0 +1,17 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #111111;
+    font-family: 'Inter', 'Segoe UI', sans-serif;
+}
+
+#root {
+    margin: 0;
+    padding: 0;
+}
